@@ -1,5 +1,5 @@
 # HIF-ILK_Petri_Net
-This repository supplements the "Petri net modeling of HIF-ILK Interaction using Continuous Petri Nets" paper by Laauwen et al. It contains CPN files of the paper's model, Charlie output files as well as figure's python script. 
+This repository supplements the "Petri net modeling of HIF-ILK Interaction using Continuous Petri Nets" paper by Laauwen et al. It contains CPN files of the paper's model as well as figure's python script. 
 
 HIF_original.cpn is the original petri network from Heiner and Sriram, converted in a continious petri network. 
 HIF_intermediate.cpn is the modified network of the original which also contains a simplified "transcription" process producing ILK as well as a feedback loop as the ILK feedback loop as described in the paper.  
